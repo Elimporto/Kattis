@@ -1,0 +1,13 @@
+C:\Users\Yeyon\Documents\GitHub\Kattis\GrassSeedInc\GrassSeedInc\GrassSeedInc\bin\Debug\netcoreapp3.1\GrassSeedInc.exe
+C:\Users\Yeyon\Documents\GitHub\Kattis\GrassSeedInc\GrassSeedInc\GrassSeedInc\bin\Debug\netcoreapp3.1\GrassSeedInc.deps.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\GrassSeedInc\GrassSeedInc\GrassSeedInc\bin\Debug\netcoreapp3.1\GrassSeedInc.runtimeconfig.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\GrassSeedInc\GrassSeedInc\GrassSeedInc\bin\Debug\netcoreapp3.1\GrassSeedInc.runtimeconfig.dev.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\GrassSeedInc\GrassSeedInc\GrassSeedInc\bin\Debug\netcoreapp3.1\GrassSeedInc.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\GrassSeedInc\GrassSeedInc\GrassSeedInc\bin\Debug\netcoreapp3.1\GrassSeedInc.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\GrassSeedInc\GrassSeedInc\GrassSeedInc\obj\Debug\netcoreapp3.1\GrassSeedInc.csprojAssemblyReference.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\GrassSeedInc\GrassSeedInc\GrassSeedInc\obj\Debug\netcoreapp3.1\GrassSeedInc.AssemblyInfoInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\GrassSeedInc\GrassSeedInc\GrassSeedInc\obj\Debug\netcoreapp3.1\GrassSeedInc.AssemblyInfo.cs
+C:\Users\Yeyon\Documents\GitHub\Kattis\GrassSeedInc\GrassSeedInc\GrassSeedInc\obj\Debug\netcoreapp3.1\GrassSeedInc.csproj.CoreCompileInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\GrassSeedInc\GrassSeedInc\GrassSeedInc\obj\Debug\netcoreapp3.1\GrassSeedInc.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\GrassSeedInc\GrassSeedInc\GrassSeedInc\obj\Debug\netcoreapp3.1\GrassSeedInc.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\GrassSeedInc\GrassSeedInc\GrassSeedInc\obj\Debug\netcoreapp3.1\GrassSeedInc.genruntimeconfig.cache

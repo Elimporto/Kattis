@@ -1,0 +1,26 @@
+C:\Users\Yeyon\Documents\GitHub\Kattis\Quadrant Selection\Bijele\Bijele\bin\Debug\netcoreapp3.1\Bijele.exe
+C:\Users\Yeyon\Documents\GitHub\Kattis\Quadrant Selection\Bijele\Bijele\bin\Debug\netcoreapp3.1\Bijele.deps.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\Quadrant Selection\Bijele\Bijele\bin\Debug\netcoreapp3.1\Bijele.runtimeconfig.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\Quadrant Selection\Bijele\Bijele\bin\Debug\netcoreapp3.1\Bijele.runtimeconfig.dev.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\Quadrant Selection\Bijele\Bijele\bin\Debug\netcoreapp3.1\Bijele.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\Quadrant Selection\Bijele\Bijele\bin\Debug\netcoreapp3.1\Bijele.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\Quadrant Selection\Bijele\Bijele\obj\Debug\netcoreapp3.1\Bijele.csprojAssemblyReference.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\Quadrant Selection\Bijele\Bijele\obj\Debug\netcoreapp3.1\Bijele.AssemblyInfoInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\Quadrant Selection\Bijele\Bijele\obj\Debug\netcoreapp3.1\Bijele.AssemblyInfo.cs
+C:\Users\Yeyon\Documents\GitHub\Kattis\Quadrant Selection\Bijele\Bijele\obj\Debug\netcoreapp3.1\Bijele.csproj.CoreCompileInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\Quadrant Selection\Bijele\Bijele\obj\Debug\netcoreapp3.1\Bijele.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\Quadrant Selection\Bijele\Bijele\obj\Debug\netcoreapp3.1\Bijele.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\Quadrant Selection\Bijele\Bijele\obj\Debug\netcoreapp3.1\Bijele.genruntimeconfig.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\Bijele\Bijele\bin\Debug\netcoreapp3.1\Bijele.exe
+C:\Users\Yeyon\Documents\GitHub\Kattis\Bijele\Bijele\bin\Debug\netcoreapp3.1\Bijele.deps.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\Bijele\Bijele\bin\Debug\netcoreapp3.1\Bijele.runtimeconfig.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\Bijele\Bijele\bin\Debug\netcoreapp3.1\Bijele.runtimeconfig.dev.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\Bijele\Bijele\bin\Debug\netcoreapp3.1\Bijele.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\Bijele\Bijele\bin\Debug\netcoreapp3.1\Bijele.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\Bijele\Bijele\obj\Debug\netcoreapp3.1\Bijele.csprojAssemblyReference.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\Bijele\Bijele\obj\Debug\netcoreapp3.1\Bijele.AssemblyInfoInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\Bijele\Bijele\obj\Debug\netcoreapp3.1\Bijele.AssemblyInfo.cs
+C:\Users\Yeyon\Documents\GitHub\Kattis\Bijele\Bijele\obj\Debug\netcoreapp3.1\Bijele.csproj.CoreCompileInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\Bijele\Bijele\obj\Debug\netcoreapp3.1\Bijele.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\Bijele\Bijele\obj\Debug\netcoreapp3.1\Bijele.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\Bijele\Bijele\obj\Debug\netcoreapp3.1\Bijele.genruntimeconfig.cache
