@@ -1,0 +1,13 @@
+C:\Users\Yeyon\Documents\GitHub\Kattis\Aaah!\Aaah!\bin\Debug\netcoreapp3.1\Aaah!.exe
+C:\Users\Yeyon\Documents\GitHub\Kattis\Aaah!\Aaah!\bin\Debug\netcoreapp3.1\Aaah!.deps.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\Aaah!\Aaah!\bin\Debug\netcoreapp3.1\Aaah!.runtimeconfig.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\Aaah!\Aaah!\bin\Debug\netcoreapp3.1\Aaah!.runtimeconfig.dev.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\Aaah!\Aaah!\bin\Debug\netcoreapp3.1\Aaah!.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\Aaah!\Aaah!\bin\Debug\netcoreapp3.1\Aaah!.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\Aaah!\Aaah!\obj\Debug\netcoreapp3.1\Aaah!.csprojAssemblyReference.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\Aaah!\Aaah!\obj\Debug\netcoreapp3.1\Aaah!.AssemblyInfoInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\Aaah!\Aaah!\obj\Debug\netcoreapp3.1\Aaah!.AssemblyInfo.cs
+C:\Users\Yeyon\Documents\GitHub\Kattis\Aaah!\Aaah!\obj\Debug\netcoreapp3.1\Aaah!.csproj.CoreCompileInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\Aaah!\Aaah!\obj\Debug\netcoreapp3.1\Aaah!.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\Aaah!\Aaah!\obj\Debug\netcoreapp3.1\Aaah!.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\Aaah!\Aaah!\obj\Debug\netcoreapp3.1\Aaah!.genruntimeconfig.cache
