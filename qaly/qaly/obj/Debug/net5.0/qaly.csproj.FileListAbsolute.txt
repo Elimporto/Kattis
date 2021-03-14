@@ -1,0 +1,16 @@
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\bin\Debug\net5.0\qaly.exe
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\bin\Debug\net5.0\qaly.deps.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\bin\Debug\net5.0\qaly.runtimeconfig.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\bin\Debug\net5.0\qaly.runtimeconfig.dev.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\bin\Debug\net5.0\qaly.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\bin\Debug\net5.0\ref\qaly.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\bin\Debug\net5.0\qaly.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\obj\Debug\net5.0\qaly.csprojAssemblyReference.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\obj\Debug\net5.0\qaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\obj\Debug\net5.0\qaly.AssemblyInfoInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\obj\Debug\net5.0\qaly.AssemblyInfo.cs
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\obj\Debug\net5.0\qaly.csproj.CoreCompileInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\obj\Debug\net5.0\qaly.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\obj\Debug\net5.0\ref\qaly.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\obj\Debug\net5.0\qaly.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\qaly\qaly\obj\Debug\net5.0\qaly.genruntimeconfig.cache
