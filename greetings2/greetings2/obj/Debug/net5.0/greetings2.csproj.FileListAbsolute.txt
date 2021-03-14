@@ -1,0 +1,16 @@
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\bin\Debug\net5.0\greetings2.exe
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\bin\Debug\net5.0\greetings2.deps.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\bin\Debug\net5.0\greetings2.runtimeconfig.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\bin\Debug\net5.0\greetings2.runtimeconfig.dev.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\bin\Debug\net5.0\greetings2.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\bin\Debug\net5.0\ref\greetings2.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\bin\Debug\net5.0\greetings2.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\obj\Debug\net5.0\greetings2.csprojAssemblyReference.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\obj\Debug\net5.0\greetings2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\obj\Debug\net5.0\greetings2.AssemblyInfoInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\obj\Debug\net5.0\greetings2.AssemblyInfo.cs
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\obj\Debug\net5.0\greetings2.csproj.CoreCompileInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\obj\Debug\net5.0\greetings2.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\obj\Debug\net5.0\ref\greetings2.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\obj\Debug\net5.0\greetings2.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\greetings2\greetings2\obj\Debug\net5.0\greetings2.genruntimeconfig.cache
