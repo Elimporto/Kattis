@@ -1,0 +1,16 @@
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\bin\Debug\net5.0\jackolanternjuxtaposition.exe
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\bin\Debug\net5.0\jackolanternjuxtaposition.deps.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\bin\Debug\net5.0\jackolanternjuxtaposition.runtimeconfig.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\bin\Debug\net5.0\jackolanternjuxtaposition.runtimeconfig.dev.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\bin\Debug\net5.0\jackolanternjuxtaposition.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\bin\Debug\net5.0\ref\jackolanternjuxtaposition.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\bin\Debug\net5.0\jackolanternjuxtaposition.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\obj\Debug\net5.0\jackolanternjuxtaposition.csprojAssemblyReference.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\obj\Debug\net5.0\jackolanternjuxtaposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\obj\Debug\net5.0\jackolanternjuxtaposition.AssemblyInfoInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\obj\Debug\net5.0\jackolanternjuxtaposition.AssemblyInfo.cs
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\obj\Debug\net5.0\jackolanternjuxtaposition.csproj.CoreCompileInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\obj\Debug\net5.0\jackolanternjuxtaposition.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\obj\Debug\net5.0\ref\jackolanternjuxtaposition.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\obj\Debug\net5.0\jackolanternjuxtaposition.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\jackolanternjuxtaposition\jackolanternjuxtaposition\obj\Debug\net5.0\jackolanternjuxtaposition.genruntimeconfig.cache
