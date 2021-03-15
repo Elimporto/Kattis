@@ -1,0 +1,16 @@
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\bin\Debug\net5.0\tarifa.exe
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\bin\Debug\net5.0\tarifa.deps.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\bin\Debug\net5.0\tarifa.runtimeconfig.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\bin\Debug\net5.0\tarifa.runtimeconfig.dev.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\bin\Debug\net5.0\tarifa.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\bin\Debug\net5.0\ref\tarifa.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\bin\Debug\net5.0\tarifa.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\obj\Debug\net5.0\tarifa.csprojAssemblyReference.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\obj\Debug\net5.0\tarifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\obj\Debug\net5.0\tarifa.AssemblyInfoInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\obj\Debug\net5.0\tarifa.AssemblyInfo.cs
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\obj\Debug\net5.0\tarifa.csproj.CoreCompileInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\obj\Debug\net5.0\tarifa.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\obj\Debug\net5.0\ref\tarifa.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\obj\Debug\net5.0\tarifa.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\tarifa\tarifa\obj\Debug\net5.0\tarifa.genruntimeconfig.cache
