@@ -1,0 +1,16 @@
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\bin\Debug\net5.0\numberfun.exe
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\bin\Debug\net5.0\numberfun.deps.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\bin\Debug\net5.0\numberfun.runtimeconfig.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\bin\Debug\net5.0\numberfun.runtimeconfig.dev.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\bin\Debug\net5.0\numberfun.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\bin\Debug\net5.0\ref\numberfun.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\bin\Debug\net5.0\numberfun.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\obj\Debug\net5.0\numberfun.csprojAssemblyReference.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\obj\Debug\net5.0\numberfun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\obj\Debug\net5.0\numberfun.AssemblyInfoInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\obj\Debug\net5.0\numberfun.AssemblyInfo.cs
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\obj\Debug\net5.0\numberfun.csproj.CoreCompileInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\obj\Debug\net5.0\numberfun.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\obj\Debug\net5.0\ref\numberfun.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\obj\Debug\net5.0\numberfun.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\numberfun\numberfun\obj\Debug\net5.0\numberfun.genruntimeconfig.cache
