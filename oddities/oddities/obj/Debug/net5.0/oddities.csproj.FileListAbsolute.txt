@@ -1,0 +1,16 @@
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\bin\Debug\net5.0\oddities.exe
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\bin\Debug\net5.0\oddities.deps.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\bin\Debug\net5.0\oddities.runtimeconfig.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\bin\Debug\net5.0\oddities.runtimeconfig.dev.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\bin\Debug\net5.0\oddities.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\bin\Debug\net5.0\ref\oddities.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\bin\Debug\net5.0\oddities.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\obj\Debug\net5.0\oddities.csprojAssemblyReference.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\obj\Debug\net5.0\oddities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\obj\Debug\net5.0\oddities.AssemblyInfoInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\obj\Debug\net5.0\oddities.AssemblyInfo.cs
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\obj\Debug\net5.0\oddities.csproj.CoreCompileInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\obj\Debug\net5.0\oddities.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\obj\Debug\net5.0\ref\oddities.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\obj\Debug\net5.0\oddities.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\oddities\oddities\obj\Debug\net5.0\oddities.genruntimeconfig.cache
