@@ -1,0 +1,16 @@
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\bin\Debug\net5.0\stopwatch.exe
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\bin\Debug\net5.0\stopwatch.deps.json
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\bin\Debug\net5.0\stopwatch.runtimeconfig.json
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\bin\Debug\net5.0\stopwatch.runtimeconfig.dev.json
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\bin\Debug\net5.0\stopwatch.dll
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\bin\Debug\net5.0\ref\stopwatch.dll
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\bin\Debug\net5.0\stopwatch.pdb
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\obj\Debug\net5.0\stopwatch.csprojAssemblyReference.cache
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\obj\Debug\net5.0\stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\obj\Debug\net5.0\stopwatch.AssemblyInfoInputs.cache
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\obj\Debug\net5.0\stopwatch.AssemblyInfo.cs
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\obj\Debug\net5.0\stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\obj\Debug\net5.0\stopwatch.dll
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\obj\Debug\net5.0\ref\stopwatch.dll
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\obj\Debug\net5.0\stopwatch.pdb
+C:\Users\Yeyon\source\repos\stopwatch\stopwatch\obj\Debug\net5.0\stopwatch.genruntimeconfig.cache
