@@ -1,0 +1,16 @@
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\bin\Debug\net5.0\simonsays.exe
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\bin\Debug\net5.0\simonsays.deps.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\bin\Debug\net5.0\simonsays.runtimeconfig.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\bin\Debug\net5.0\simonsays.runtimeconfig.dev.json
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\bin\Debug\net5.0\simonsays.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\bin\Debug\net5.0\ref\simonsays.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\bin\Debug\net5.0\simonsays.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\obj\Debug\net5.0\simonsays.csprojAssemblyReference.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\obj\Debug\net5.0\simonsays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\obj\Debug\net5.0\simonsays.AssemblyInfoInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\obj\Debug\net5.0\simonsays.AssemblyInfo.cs
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\obj\Debug\net5.0\simonsays.csproj.CoreCompileInputs.cache
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\obj\Debug\net5.0\simonsays.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\obj\Debug\net5.0\ref\simonsays.dll
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\obj\Debug\net5.0\simonsays.pdb
+C:\Users\Yeyon\Documents\GitHub\Kattis\simonsays\simonsays\obj\Debug\net5.0\simonsays.genruntimeconfig.cache
